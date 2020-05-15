@@ -1,2 +1,2 @@
-# Web-Scrapping-N11
-Web Scrapping from N11.com (It's a huge market web site)
+# Web-Scraping-N11
+Web Scraping from N11.com (It's a huge market web site)
